@@ -27,7 +27,7 @@ while Texto !="salir":
   entrada=int(input("Ingrese la cantidad de entradas que desea: "))
   Tniño = entrada + entrada
   entrada = entrada * 5500
-  total = entrada
+  total = entrada + entrada
   print(f"El total de las entradas es: ${entrada}")
   print("Si desea continuar escriba [Si]")
   Texto=input("Si desea salir escriba en el teclado [Salir]: ")
@@ -40,7 +40,7 @@ while Texto !="salir":
    entrada=int(input("Ingrese la cantidad de entradas que desea: "))
    Tjoven = entrada + entrada 
    entrada = entrada * 7000
-   total2= entrada
+   total2= entrada + entrada
    print(f"El total de las entradas es: ${entrada}")
    print("Si desea continuar escriba [Si]")
    Texto=input("Si desea salir escriba en el teclado [Salir]: ")
@@ -56,7 +56,7 @@ while Texto !="salir":
    entrada=int(input("Ingrese la cantidad de entradas que desea: "))
    Tadulto = entrada + entrada
    entrada = entrada * 9000
-   total3= entrada
+   total3= entrada + entrada
    print(f"El total de las entradas es: ${entrada}")
    print("Si desea continuar escriba [Si] ")
    Texto=input("Si desea salir escriba en el teclado [Salir]: ")
